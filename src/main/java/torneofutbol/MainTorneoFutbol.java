@@ -5,7 +5,7 @@ public class MainTorneoFutbol {
 
     public static void main(String[] args) {
 
-        System.out.println("Hola, voy a mostrar los jugadores de los quipos");
+        System.out.println("Acceciendo a los jugadores del torneo");
         
         // Crear una instancia de la clase Equipo
         Equipo equipoMH = new Equipo("IES MH FC");
