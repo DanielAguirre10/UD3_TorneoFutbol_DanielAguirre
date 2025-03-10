@@ -21,6 +21,6 @@ public class MainTorneoFutbol {
         // Obtener y mostrar el número de jugadores en el equipoMH
         int numeroDeJugadores = equipoMH.obtenerNumeroDeJugadores();
         System.out.println("\nNumero de jugadores en el equipo: " + numeroDeJugadores);
-
+int t;
     }
 }
